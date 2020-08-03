@@ -25,9 +25,6 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/v2ray lean/v2ray
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/trojan lean/trojan
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/ipt2socks lean/ipt2socks
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/redsocks2 lean/redsocks2
-# luci-app-filebrowser
-svn co https://github.com/project-openwrt/openwrt/branches/master/package/ctcgfw/luci-app-filebrowser lean/luci-app-filebrowser
-svn co https://github.com/project-openwrt/openwrt/branches/master/package/ctcgfw/filebrowser lean/filebrowser
 # luci-app-arpbind
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-arpbind lean/luci-app-arpbind
 # coremark
