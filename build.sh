@@ -34,12 +34,8 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-arpbind 
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/coremark lean/coremark
 # luci-app-xlnetacc
 svn co https://github.com/project-openwrt/openwrt/branches/master/package/lean/luci-app-xlnetacc lean/luci-app-xlnetacc
-# luci-app-oled
-git clone --depth 1 https://github.com/NateLol/luci-app-oled.git lean/luci-app-oled
-# luci-app-unblockmusic
-svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-unblockmusic lean/luci-app-unblockmusic
-svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/UnblockNeteaseMusic lean/UnblockNeteaseMusic
-svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/UnblockNeteaseMusicGo lean/UnblockNeteaseMusicGo
+# luci-app-adbyby-plus
+svn co https://github.com/project-openwrt/openwrt/branches/master/package/lean/luci-app-adbyby-plus lean/luci-app-adbyby-plus
 # luci-app-autoreboot
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-autoreboot lean/luci-app-autoreboot
 # luci-app-vsftpd
